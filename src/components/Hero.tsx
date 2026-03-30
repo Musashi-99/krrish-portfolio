@@ -11,12 +11,12 @@ export default function Hero() {
       </h1>
 
       <div className="animate-fade-rise-delay flex flex-col sm:flex-row gap-8 mt-12">
-        <a href="/resumes/ui ux  resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/resumes/krrish_uiux_resume (5).pdf" target="_blank" rel="noopener noreferrer">
           <StarButton lightColor="#3ca2fa" className="bg-black/40">
             UI/UX RESUME
           </StarButton>
         </a>
-        <a href="/resumes/full stack resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/resumes/krrish_final_resume.pdf" target="_blank" rel="noopener noreferrer">
           <StarButton lightColor="#FFFFFF" className="bg-transparent">
             FULL STACK RESUME
           </StarButton>
