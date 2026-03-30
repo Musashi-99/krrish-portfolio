@@ -1,6 +1,6 @@
 {
-  "buildCommand": "npx vite build",
+  "buildCommand": "yarn build",
   "outputDirectory": "dist",
   "framework": null,
-  "installCommand": "npm install"
+  "installCommand": "yarn install"
 }
