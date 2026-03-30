@@ -16,7 +16,7 @@ export default function Hero() {
             UI/UX RESUME
           </StarButton>
         </a>
-        <a href="/resumes/krrish_final_resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/resumes/krrish_final_resume (2).pdf" target="_blank" rel="noopener noreferrer">
           <StarButton lightColor="#FFFFFF" className="bg-transparent">
             FULL STACK RESUME
           </StarButton>
